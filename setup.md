@@ -4,3 +4,8 @@
   + Lembretes
     * remover Xbee Shield para carregar programa no arduino
     * resetar xbee (opção default) antes de cofigurá-lo 
+* Hello world - OpenMV
+  + [Download OpenMV IDE](https://openmv.io/pages/download)
+  + File > Examples > OpenMV > Basics > helloworld.py
+  + Tools > Save open script to OpenMV Cam (as main.py)
+  + You have to click the connect button in the bottom left-hand corner of OpenMV IDE to connect to OpenMV Cam
