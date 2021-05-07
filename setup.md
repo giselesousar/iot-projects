@@ -9,3 +9,5 @@
   + File > Examples > OpenMV > Basics > helloworld.py
   + Tools > Save open script to OpenMV Cam (as main.py)
   + You have to click the connect button in the bottom left-hand corner of OpenMV IDE to connect to OpenMV Cam
+
+* [Configurando Mosquitto (MQTT Broker) localmente no Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04)
